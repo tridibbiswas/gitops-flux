@@ -18,7 +18,7 @@ spec:
     labels:
       app:
         env: dev
-        name: gitops-flux
+        name: block-buster
         version: 7.5.0
     namespace:
       name: 5-demo
