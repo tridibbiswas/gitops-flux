@@ -6,4 +6,4 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m0s
-  url: https://github.com/tridibbiswas/helm-app/blob/main
+  url: https://sidd-harth.github.io/block-buster-helm-app
